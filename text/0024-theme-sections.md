@@ -56,7 +56,7 @@ fn draw(
    let body_theme = theme.with_section(Section::Body);
 
 
-   self.content
+   self.drawer_content
            .as_widget()
            .draw(tree, renderer, &drawer_theme, &style, layout, cursor, viewport);
    self.content
