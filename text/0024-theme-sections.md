@@ -1,4 +1,4 @@
-# Theme Section
+# Theme Sections
 
 
 ## Summary
