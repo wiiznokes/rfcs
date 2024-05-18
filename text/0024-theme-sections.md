@@ -18,7 +18,7 @@ enum Section {
 
 ## Motivation
 
-Imagine you want to add an icon in an elevated Card, and a drawer. It is likely that the background color of these "sections" will be different. Yet, currently, the colors of the button will be the same. This change will allow widgets to change their colors based on the section they are in. This would fix all contrast issues out of the box.
+Imagine you want to add an icon in an elevated Card and a drawer. It is likely that the background color of these "sections" will be different. Yet, currently, the colors of the button will be the same. This change will allow widgets to change their colors based on the section they are in. This would fix all contrast issues out of the box.
 
 
 ## Guide-level explanation
